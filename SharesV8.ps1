@@ -1,3 +1,38 @@
+<#
+MIT License for Non-Profit Use
+
+Copyright (c) 2025 Five-10 Solutions
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this script and associated documentation files (the "script"), to deal
+in the script without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the script, and to permit persons to whom the script is
+furnished to do so, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the script.
+2. The script is provided for non-profit use only. Any commercial use, including
+   but not limited to selling the script, incorporating it into a commercial
+   product, or using it to provide paid services, requires a separate commercial
+   license.
+
+For commercial licensing inquiries, please contact:
+Infosec_Viking {AKA Max S.}
+Max@five-10.com
+
+THE script IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE script OR THE USE OR OTHER DEALINGS IN THE
+script.
+
+I am not a software dev - I am an idiot that likes powershell, this shit may break things
+don't be dumb, and be aware of what these scripts do.  If you don't understand powershell,
+you have no business 
+#>
 #Requires -RunAsAdministrator
 #Requires -Version 5.1
 
